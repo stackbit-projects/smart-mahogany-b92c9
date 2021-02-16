@@ -8,7 +8,7 @@ sections:
     content: >-
       Professionaly an EC engineer who loves Web technologies, too.
     actions:
-      - label: Get 
+      - label: Get In touch
         url: /contact
         style: button
   - section_id: latest-projects
