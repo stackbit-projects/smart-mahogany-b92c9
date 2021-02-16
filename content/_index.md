@@ -6,8 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Kailas Nakum.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Professionaly an EC engineer who loves Web technologies, too.
     actions:
       - label: Let's talk
         url: /contact
