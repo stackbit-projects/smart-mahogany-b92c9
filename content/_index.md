@@ -8,7 +8,7 @@ sections:
     content: >-
       Professionaly an EC engineer who loves Web technologies, too.
     actions:
-      - label: Let's talk
+      - label: Get 
         url: /contact
         style: button
   - section_id: latest-projects
